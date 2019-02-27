@@ -1,0 +1,44 @@
+ #page2 {
+    visibility: hidden;
+    background: white;
+    opacity: 0.9;
+    }
+
+  #page3 {
+    visibility: hidden;
+    background: white;
+  } 
+    
+  h1 {
+    color: red;
+    text-align: center;
+  }
+
+  
+  #display {
+    font-family: monospace;
+    font-size: 60px;
+    color: green;
+  
+    /* Typography */
+    text-align: center;
+  
+    /* Visual */
+    background: black;
+
+  }
+
+  #button1 {
+    text-align: center;
+  }
+
+  body, html {
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1544476333-4982d8f6c688?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+  }
+
+  
+ 
